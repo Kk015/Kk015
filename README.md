@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/Kk015/Kk015/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
 </p> -->
 
-I am a Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about Web. :wink:
+I am a Web Developer who is exploring the field of Compter Science and Web Technology. :wink:
  
  🔭 I’m planning for a Project **Vision: React-based Websites**.
  
